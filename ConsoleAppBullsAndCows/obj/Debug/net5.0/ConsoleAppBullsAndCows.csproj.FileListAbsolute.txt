@@ -1,0 +1,16 @@
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\ConsoleAppBullsAndCows\ConsoleAppBullsAndCows\bin\Debug\net5.0\ConsoleAppBullsAndCows.exe
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\ConsoleAppBullsAndCows\ConsoleAppBullsAndCows\bin\Debug\net5.0\ConsoleAppBullsAndCows.deps.json
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\ConsoleAppBullsAndCows\ConsoleAppBullsAndCows\bin\Debug\net5.0\ConsoleAppBullsAndCows.runtimeconfig.json
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\ConsoleAppBullsAndCows\ConsoleAppBullsAndCows\bin\Debug\net5.0\ConsoleAppBullsAndCows.runtimeconfig.dev.json
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\ConsoleAppBullsAndCows\ConsoleAppBullsAndCows\bin\Debug\net5.0\ConsoleAppBullsAndCows.dll
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\ConsoleAppBullsAndCows\ConsoleAppBullsAndCows\bin\Debug\net5.0\ref\ConsoleAppBullsAndCows.dll
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\ConsoleAppBullsAndCows\ConsoleAppBullsAndCows\bin\Debug\net5.0\ConsoleAppBullsAndCows.pdb
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\ConsoleAppBullsAndCows\ConsoleAppBullsAndCows\obj\Debug\net5.0\ConsoleAppBullsAndCows.csprojAssemblyReference.cache
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\ConsoleAppBullsAndCows\ConsoleAppBullsAndCows\obj\Debug\net5.0\ConsoleAppBullsAndCows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\ConsoleAppBullsAndCows\ConsoleAppBullsAndCows\obj\Debug\net5.0\ConsoleAppBullsAndCows.AssemblyInfoInputs.cache
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\ConsoleAppBullsAndCows\ConsoleAppBullsAndCows\obj\Debug\net5.0\ConsoleAppBullsAndCows.AssemblyInfo.cs
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\ConsoleAppBullsAndCows\ConsoleAppBullsAndCows\obj\Debug\net5.0\ConsoleAppBullsAndCows.csproj.CoreCompileInputs.cache
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\ConsoleAppBullsAndCows\ConsoleAppBullsAndCows\obj\Debug\net5.0\ConsoleAppBullsAndCows.dll
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\ConsoleAppBullsAndCows\ConsoleAppBullsAndCows\obj\Debug\net5.0\ref\ConsoleAppBullsAndCows.dll
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\ConsoleAppBullsAndCows\ConsoleAppBullsAndCows\obj\Debug\net5.0\ConsoleAppBullsAndCows.pdb
+C:\Users\igorm\OneDrive\Рабочий стол\documents\c#\ConsoleAppBullsAndCows\ConsoleAppBullsAndCows\obj\Debug\net5.0\ConsoleAppBullsAndCows.genruntimeconfig.cache
